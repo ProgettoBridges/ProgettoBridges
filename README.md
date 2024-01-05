@@ -2,7 +2,7 @@
 - 👀 We are interested in building bridges beetween the traditional world and new technologies.
 - 🌱 I’m currently working on developing innovative solutions trought new technologies.
 - 💞️ We work closely with istitutions, companies and individuals.
-- 📫 How to reach me:Email:progettobridges@gmail.com / https://linktr.ee/progettobridges?fbclid=PAAaa_cs1rdRuOANVfpz7qOvJkWjoe3vbGuPvGYY5N92jrY1zWtMtCRIS-K6s
+- 📫 How to reach me:📨 progettobridges@gmail.com /🌐 https://linktr.ee/progettobridges?fbclid=PAAaa_cs1rdRuOANVfpz7qOvJkWjoe3vbGuPvGYY5N92jrY1zWtMtCRIS-K6s
 
 <!---
 ProgettoBridges/ProgettoBridges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
